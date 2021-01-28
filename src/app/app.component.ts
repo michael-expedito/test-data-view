@@ -1,6 +1,6 @@
 import { Component, OnInit } from "@angular/core";
 import { SelectItem } from "primeng/api";
-import { Product } from "./product.model";
+import { Product } from "./product";
 
 @Component({
   selector: "app-root",
